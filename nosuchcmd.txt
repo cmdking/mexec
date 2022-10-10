@@ -1,0 +1,4 @@
+ls -l 
+nocmd
+man fork
+nano mexec.c
